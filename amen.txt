@@ -1,1 +1,1 @@
-"success|success|{success}", text, text2, "10"
+success|success|success
